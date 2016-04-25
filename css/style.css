@@ -4,16 +4,17 @@
 }
 
 body {
-    background-color: black;
+    background-color: green;
 }
 
 .banner {
-    margin-left: 20%;
+    margin-left: auto;
     margin-right: auto;
     margin-top: 0;
     margin-bottom: 0;
-    max-width: 600px;
+    max-width: 300px;
     display: block;
+	
 }
 
 .back {
@@ -27,21 +28,22 @@ body {
     top: 0;
     bottom: 0;
     right: 0;
-    max-width: 1350px;
+    max-width: 250px;
     width: 100%;
     z-index: -1;
 }
 
 .main {
-    margin-left: 20%;
+    margin-left: 5%;
     margin-right: auto;
     margin-top: 0;
     margin-bottom: 0;
-    color: grey;
+	text-align: center;
+    color: white;
 }
 
 .main > p {
     color: grey;
     font-family: act;
-    font-size: 32pt;
+    font-size: 100pt;
 }

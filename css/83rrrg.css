@@ -1,0 +1,48 @@
+body {
+	line-height: 20px;
+	margin: 0 0 0 0;
+	font-size: 21px;
+	font-family: "Helvetica Standard",Helvetica,Arial,sans-serif;
+	background: #181818 fixed no-repeat bottom right;
+	background-image: url("img/10.png");
+	color: #7A2D2D;
+}
+
+a {
+	color: #DA1111;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+#info {
+	text-align: left;
+	margin: auto auto auto auto;
+}
+
+#info h1 {
+	color: green;
+    font-family: inherit;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 1;
+    margin: 50px 0 50px 0px;
+    cursor: default;
+    text-rendering: optimizelegibility;
+}
+
+#links {
+	text-align: left;
+	margin: auto auto auto auto;
+	height: 66%;
+}
+
+#links p{
+	margin: 8px 0;
+}
+
+.glow:hover {
+	text-shadow: 0 0 5px #FF0000;
+}
