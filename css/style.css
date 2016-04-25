@@ -7,43 +7,26 @@ body {
     background-color: black;
 }
 
-.banner {
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0;
-    margin-bottom: 0;
-    max-width: 300px;
-    display: block;	
-}
 
-.back {
-   /* display: block; */
-   /* position: absolute; */
+
+img {
+    display: block; 
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: auto;
+    margin-bottom: 10px;	
     left: 0;
     top: 0;
     bottom: 0;
     right: 0;
-    max-width: 250px;
-	max-height:250px;
+    width: 150px;
+	height:150px;
     width: 50%;
     z-index: -1;
+	
 }
 
-.p {
-    margin-left: 5%;
-    margin-right: auto;
-    margin-top: 0;
-    margin-bottom: 0;
-	text-align: center;
-    color: cyan;
-}
 
-.main > p {
-    color: grey;
-    font-family: act;
-    font-size: 100pt;
-}
+
+
+
