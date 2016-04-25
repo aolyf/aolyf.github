@@ -1,0 +1,47 @@
+@font-face {
+    font-family: act;
+    src: url(../font/act.ttf);
+}
+
+body {
+    background-color: black;
+}
+
+.banner {
+    margin-left: 20%;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: 600px;
+    display: block;
+}
+
+.back {
+    display: block;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    max-width: 1350px;
+    width: 100%;
+    z-index: -1;
+}
+
+.main {
+    margin-left: 20%;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: grey;
+}
+
+.main > p {
+    color: grey;
+    font-family: act;
+    font-size: 32pt;
+}
