@@ -3,9 +3,7 @@
     src: url(../font/act.ttf);
 }
 
-body {
-    background-color: black;
-}
+
 
 
 
@@ -23,7 +21,7 @@ img {
    
 	
 }
-div {
+/*div {
     width: 50px;
     height: 50px;
     background: cyan;
@@ -35,15 +33,17 @@ div {
 div:hover {
     width: 300px;
 }
-
+*/
 a:hover{
 	color:cyan;
 }
 
-.y{
+body{
 	display-style: block;
 	text-align: center;
+	background-image:url("img/2.gif");
 }
+
 
 
 
