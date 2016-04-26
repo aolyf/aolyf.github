@@ -15,6 +15,7 @@ img {
    /*display: block; */
      border-radius: 15px 50px;
     padding: 20px;
+	center;
     width: 200px;
     height: 150px; 
 	/*transform: rotate(20deg);*/
@@ -22,13 +23,26 @@ img {
    
 	
 }
+div {
+    width: 50px;
+    height: 50px;
+    background: cyan;
+    
+    transition: width 3s;
+    transition-delay: 0s;
+}
+
+div:hover {
+    width: 300px;
+}
 
 a:hover{
 	color:cyan;
 }
 
 .y{
-	left:40;
+	display-style: block;
+	text-align: center;
 }
 
 
