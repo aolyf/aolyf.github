@@ -12,21 +12,17 @@ body {
 
 
 img {
-   display: block; 
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    margin-bottom: 10px;	
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    width: 50px;
-	height:50px;
-    width: 5%;
-    z-index: -1;
+   /*display: block; */
+     border-radius: 15px 50px;
+    padding: 20px;
+    width: 200px;
+    height: 150px; 
+	/*transform: rotate(20deg);*/
+	transition: width 2s;
+   
 	
 }
+
 a:hover{
 	color:cyan;
 }
