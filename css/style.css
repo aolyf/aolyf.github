@@ -37,6 +37,9 @@ div:hover {
 a:hover{
 	color:cyan;
 }
+a:visited{
+	color:cyan;
+}
 
 body{
 	display-style: block;
