@@ -1,0 +1,7 @@
+.cover {
+    height: 100%;
+}
+
+.page1 {
+    background-image: url("../img/page/no.jpg");
+}
