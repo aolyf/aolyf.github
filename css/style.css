@@ -10,11 +10,10 @@
 
 img {
    /*display: block; */
-     border-radius: 15px 50px;
-    padding: 20px;
+     border-radius: 50%;
+    /*padding: 20px;*/
 	
-    width: 200px;
-    height: 150px; 
+    
 	/*transform: rotate(20deg);*/
 	transition: width 2s;
    
