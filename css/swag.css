@@ -1,0 +1,48 @@
+body {
+    overflow-x: hidden;
+}
+
+.cover {
+    height: 100vh;
+}
+
+.pg {
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.header {
+    position: fixed;
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 10em;
+    width: 50%;
+}
+
+.page1 {
+    background-image: url("../img/page/no.jpg");
+}
+
+.page2 {
+     background-image: url("../img/page/blue.jpg");
+}
+
+.page3 {
+     background-image: url("../img/page/green.jpg");
+}
+
+.page4 {
+    background-image: url("../img/page/orange.jpg");
+}
+
+.page5 {
+    background-image: url("../img/page/sky.jpg");
+}
+
+.page6 {
+    background-image: url("../img/page/1.jpg");
+}
