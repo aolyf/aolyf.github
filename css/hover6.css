@@ -1,3 +1,6 @@
+body{
+	background-color:lavender;
+}
 .page-header {
     display: inline-block;
     margin: 40px 0 20px;
